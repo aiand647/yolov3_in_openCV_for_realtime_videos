@@ -13,6 +13,7 @@ https://pjreddie.com/media/files/yolov3-tiny.weights
 - openCV 2.0
 
 # How to Use
+- Clone the repository
 - Download the weights
 - Place it in model folder
 - open **main.py** in a text editor and specify the paths of weight, cfg, names file

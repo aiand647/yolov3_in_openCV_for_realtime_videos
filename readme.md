@@ -25,9 +25,9 @@ python3 main.py
 
 # Samples
 
-![Cars on Road](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/edit/master/samples/cars.png)
-![Peoples](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/edit/master/samples/people.png)
-![More Peoples](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/edit/master/samples/people2.png)
+![Cars on Road](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/tree/master/samples/cars.png)
+![Peoples](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/tree/master/samples/people.png)
+![More Peoples](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/tree/master/samples/people2.png)
 
 # Referance
 - https://pjreddie.com/darknet/yolo/

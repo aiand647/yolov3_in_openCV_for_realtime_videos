@@ -5,8 +5,8 @@ Note: hence it use only cpu the fps noted while using yolov3-tiny is useable whe
 
 Feel free to twick the code and optimize as per requierment
 
-please download yolov3-tiny.weights 
-from the following link:-
+please download yolov3-tiny.weights from the following link:-
+https://pjreddie.com/media/files/yolov3-tiny.weights
 
 # Requierments
 - Numpy
@@ -25,6 +25,9 @@ python3 main.py
 
 # Samples
 
-![Cars on Road]()
-![Peoples]()
-![More Peoples]()
+![Cars on Road](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/edit/master/samples/cars.png)
+![Peoples](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/edit/master/samples/people.png)
+![More Peoples](https://github.com/aiand647/yolov3_in_openCV_for_realtime_videos/edit/master/samples/people2.png)
+
+# Referance
+- https://pjreddie.com/darknet/yolo/
